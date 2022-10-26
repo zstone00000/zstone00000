@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zach Stone
 - 👀 I’m a data scientist with a background in linguistics research, math, and education
-- 🌱 I’m currently learning machine learning & AI in Python & R
+- 🌱 I love to learn and experiment. Professionally, I'm continuing to develop AI/ML and data skills in Python & R, but I actively maintain hobbies learning math and research related to dependency and graph grammars.
 - 💞️ I’m driven by working on interesting problems with collaborators with different backgrounds!
 - 📫 How to reach me zach (dot) stone (dot) umd (at) gmail 
 - Personal blog: https://mlthehardway.wordpress.com/
