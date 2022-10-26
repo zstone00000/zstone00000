@@ -5,6 +5,14 @@
 - 📫 How to reach me zach (dot) stone (dot) umd (at) gmail 
 - Personal blog: https://mlthehardway.wordpress.com/
 - NYCDSA posts: https://nycdatascience.com/blog/author/zstone/
+
+Qualifications:
+Data Science Certificate, NYC Data Science Academy
+PhD, Linguistics, University of Maryland
+MSEd, Math Education, St. John's University
+BFA, Film & Television Production, New York University
+
+Linked In: www.linkedin.com/in/zach-stone-ling/
 <!---
 zstone00000/zstone00000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
