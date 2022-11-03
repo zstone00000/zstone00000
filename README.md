@@ -2,7 +2,7 @@
 - 👀 I’m a data scientist with a background in linguistics research, math, and education
 - 🌱 I love to learn and experiment. Professionally, I'm continuing to develop AI/ML and data skills in Python & R, but I actively maintain hobbies learning math, doing research related to dependency and graph grammars, and implementing ideas from both in code.
 - 💞️ I’m driven by working on interesting problems with collaborators with different backgrounds!
-- 📫 Reach me zach (dot) stone (dot) umd (at) gmail 
+- 📫 Reach me at zach (dot) stone (dot) umd (at) gmail 
 - Personal blog: http://mlthehardway.wordpress.com
 - NYCDSA posts: http://nycdatascience.com/blog/author/zstone/
 
