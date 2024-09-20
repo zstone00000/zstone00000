@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Zach Stone
 - 👀 I’m a data scientist and engineer with a background in linguistics research, math, and education
-- 🌱 I love to learn and experiment. I maintain an active hobby in mathematics and linguistics, especially algebraic models of graph languages and grammars
-- 💞️ I’m driven by working on interesting problems with collaborators with different backgrounds
+- 💞️ I’m driven by working on interesting problems with collaborators with different backgrounds- 
+- 🌱 I love to learn and experiment. Current hobbies:
+    - professional: pyspark, GCP, bash scripting
+    - mathematics: intersection theory
+    - linguistics: algebraic models of graph languages
+
 - 📫 Reach me at zach (dot) stone (dot) umd (at) gmail 
 
 Qualifications:
