@@ -3,7 +3,7 @@
 - 💞️ Driven by working on interesting problems with collaborators with different backgrounds 
 - 🌱 I love to learn and experiment. Current hobbies:
     - professional: GCP, serverless orchestration, FastAPI/SQLModel
-    - mathematics: intersection theory, configuration spaces
+    - mathematics: intersection theory, configuration spaces, macaulay2
     - linguistics: algebraic models of graph languages, combinatorial geometry of grammatical relations
 
 - 📫 Reach me at zach (dot) stone (dot) umd (at) gmail 
