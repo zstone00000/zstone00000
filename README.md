@@ -2,9 +2,9 @@
 - 👀 Data engineer and backend developer with a background in linguistics research, math, and education
 - 💞️ Driven by working on interesting problems with collaborators with different backgrounds 
 - 🌱 I love to learn and experiment. Current hobbies:
-    - professional: pyspark, GCP, bash scripting
-    - mathematics: intersection theory
-    - linguistics: algebraic models of graph languages
+    - professional: GCP, serverless orchestration, FastAPI/SQLModel
+    - mathematics: intersection theory, configuration spaces
+    - linguistics: algebraic models of graph languages, combinatorial algebraic geometry of grammatical relations
 
 - 📫 Reach me at zach (dot) stone (dot) umd (at) gmail 
 
